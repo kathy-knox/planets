@@ -6,6 +6,8 @@
 - apples
 - oranges
 - peaches
+- pears
+- plums
 
 1 R 
 2 Pthyon
