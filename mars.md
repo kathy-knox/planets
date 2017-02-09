@@ -1,6 +1,6 @@
-###Big Heading
-## Littiler Heading
-# Even smaller
+#Big Heading
+## Little Heading
+### Even smaller
 
 
 - apples
