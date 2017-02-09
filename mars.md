@@ -8,6 +8,7 @@
 - peaches
 - pears
 - plums
+- lychees
 
 1 R 
 2 Pthyon
